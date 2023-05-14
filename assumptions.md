@@ -1,0 +1,7 @@
+- Data’s initial state has no users or channels.
+- First name or last name contains at least one alphanumeric character.
+- Users and channels cannot be deleted.
+- Global owner can join private channels.
+- In channelMessagesV1, a start argument less than 0 is invalid.
+- A user's global permissions cannot be changed from the permissions they were given during registration.
+- User handles can be edited to contain both uppercase and lowercase letters.
